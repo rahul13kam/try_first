@@ -24,7 +24,7 @@ function App() {
             draggable
             pauseOnHover
 />
-        <button onClick={notify}>Notifyyy!</button>
+        <button onClick={notify}>Notifyyyyy!</button>
         
       </div> 
        </div>
